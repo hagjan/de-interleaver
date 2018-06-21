@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=De-Interleaver
+Exec=de-interleaver
+Comment=An application for de-interleaving multichannel audio files
+Icon=de-interleaver
+Terminal=false
+Categories=Utility;Audio;GTK;
